@@ -1,4 +1,4 @@
-# FSE100MASTERPROJECT
+# FSE100: FMS Master Project
 This is the final project submission for FSE100 for the FMS Master Project. Kunal Pawar and Sohan Chollera have contributed mainly to this repository, along with Kyle Knowles and Drishti Chandwani. This project was led under the instruction of Rajesh Sathya Kumar.
 
 The final product code is within the folder labeled "FINAL." The file "Sketch.JS" has the entire code for the final Master Project. To launch this code, open the sketch.js file. Copy all of the code. Open the https://editor.p5js.org/ website. Erase all code from the Editor P5JS website. Paste the code from the sketch.js file, and run the code.
